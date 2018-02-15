@@ -34,4 +34,6 @@ Ik heb een .hushlogin aangemaakt met onderstaande code om zo van de "Last login"
 
 ## Image terminal
 
+Ik heb de profiel van m'n terminal aangepast naar een donkere, transparante achtergrondskleur en de tekst wit gemaakt. 
+
 ![Terminal](https://github.com/Mennauu/dotfiles/blob/master/terminal.png?raw=true)
