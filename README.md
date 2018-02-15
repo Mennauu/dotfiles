@@ -1,6 +1,6 @@
 # Menno's dotfiles
 
-Deze README zal nog aangepast worden
+Deze README zal nog aangevuld worden
 
 ## Profile
 
