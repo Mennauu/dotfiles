@@ -31,3 +31,7 @@ _informatie volgt nog_
 Ik heb een .hushlogin aangemaakt met onderstaande code om zo van de "Last login" melding af te komen.
 
 `touch .hushlogin`
+
+## Image terminal
+
+![Terminal](https://github.com/Mennauu/dotfiles/blob/master/terminal.png?raw=true)
