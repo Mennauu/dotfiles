@@ -1,5 +1,7 @@
 # Menno's dotfiles
 
+Deze README zal nog aangepast worden
+
 ## Profile
 
 ### Modify prompt
